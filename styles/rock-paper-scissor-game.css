@@ -1,0 +1,84 @@
+.movebut{    
+    background: transparent;
+    border:2px solid rgb(1, 226, 140);
+    margin-right: 40px;
+    padding: 40px 40px 40px 40px;
+    border-radius: 70px;
+    margin-left: 50px;
+    cursor: pointer;
+    }
+    .movebut:hover{
+        background-color: rgb(1, 226, 140);
+    }
+    .movebut:active{
+        background-color: rgb(230, 255, 245);
+    }
+    .moveicon{
+       height: 50px;
+       width: 50px;
+       
+       
+    }
+    body{
+       background-color: rgb(25,25, 25);
+       font-family: arial;
+       color: rgb(15, 244, 229);
+       font-weight: bold;
+       margin-left: 250px;
+    }
+    .titl{
+        font-size: 50px;
+        color:  rgb(247, 194, 46);
+        font-weight: bold;
+        letter-spacing: 10px;
+     }
+     .res{
+        color: rgb(242, 231, 27);
+        font-size: 30px;
+        font-weight: bolder; 
+        letter-spacing: 5px;
+        margin-left: 270px; 
+    
+                
+     }
+     .resbut
+     {
+        color: rgb(255, 255, 255);
+        padding: 10px 20px 10px 20px;
+        border:none;
+        background: rgb(1, 86, 56);
+        border: 2px solid  rgb(255, 255, 255);
+        margin-top: 30px;
+        margin-left: 250px;
+        font-weight: bolder;
+        cursor:pointer;
+     }
+     .resbut:hover ,
+         .autoplaybut:hover{
+            background-color: rgb(192, 192, 192);
+         }
+         .resbut:active ,
+         .autoplaybut:active{
+            background-color: rgb(255, 255, 255);
+            color: rgb(1, 86, 56);
+         }
+         .autoplaybut{
+            color: rgb(255, 255, 255);
+            padding: 10px 20px 10px 20px;
+            border:none;
+            background: rgb(1, 86, 56);
+            border: 2px solid  rgb(255, 255, 255);
+            font-weight: bolder;
+            cursor:pointer;
+         }
+         .sco{
+            margin-top: 50px;
+            margin-left: 200px;
+            letter-spacing: 3px;
+            font-size: 20px; 
+         }
+         .mov{
+            margin-left: 220px;
+            letter-spacing: 3px;
+            font-size: 20px;
+         }
